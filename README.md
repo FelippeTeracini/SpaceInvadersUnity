@@ -1,6 +1,6 @@
 # SpaceInvadersUnity
 
-Esse projeto é um clone de Space Invaders feito em Unity.
+Esse projeto é um clone de Space Invaders feito em Unity. <br/>
 
 # Como Jogar
 
@@ -34,3 +34,11 @@ Atirar: L-Ctrl ou Mouse1
 # Observação
 
 Todos os assets do jogo, incluindo sprites de jogador, inimigos e projéteis, efeitos sonoros e música tema, foram feitos por nós (Não inclui as fontes de texto).
+
+# Créditos
+
+Jogo feito por Felippe Teracini e Guilherme Schoueri
+
+# Link do jogo no itch.io
+
+https://guigs10mil.itch.io/space-invaders
