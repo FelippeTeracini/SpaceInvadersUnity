@@ -2,6 +2,11 @@
 
 Esse projeto é um clone de Space Invaders feito em Unity.
 
+# Como Jogar
+
+Movimentação: Setas ou A e D
+Atirar: L-Ctrl ou Mouse1
+
 # Características Extras
 
 1. O jogo possui 6 fases diferentes. O jogador avança de fase quando todos os aliens morrem.
