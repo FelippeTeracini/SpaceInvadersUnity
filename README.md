@@ -27,4 +27,4 @@ Esse projeto é um clone de Space Invaders feito em Unity.
 
 # Observação
 
-Todos os assets jogo, incluindo sprites de player, inimigos e projéteis, efeitos sonoros e música tema, foram feitos por nós (Não inclui as fontes de texto).
+Todos os assets do jogo, incluindo sprites de player, inimigos e projéteis, efeitos sonoros e música tema, foram feitos por nós (Não inclui as fontes de texto).
