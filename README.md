@@ -4,7 +4,7 @@ Esse projeto é um clone de Space Invaders feito em Unity.
 
 # Como Jogar
 
-Movimentação: Setas ou A e D
+Movimentação: Setas ou A e D ou Mouse <br/>
 Atirar: L-Ctrl ou Mouse1
 
 # Características Extras
