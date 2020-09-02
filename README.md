@@ -11,6 +11,7 @@ https://guigs10mil.itch.io/space-invaders
 
 Movimentação: Setas ou A e D ou Mouse <br/>
 Atirar: L-Ctrl ou Mouse1
+Pausar: Esc
 
 # Características Extras
 
