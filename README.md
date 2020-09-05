@@ -18,10 +18,10 @@ Pause: Esc
 1. There are 6 different levels. The player goes to the next level when all aliens are dead.
 2. The player has 3 lives, always showing how many he has left.
 3. If an alien touches a base, the base is destroyed.
-4. If an alien reaches the bottom of the scree, it's game over.
+4. If an alien reaches the bottom of the screen, it's game over.
 5. There are 3 different types of aliens, each with different damage effects, health points and attack probability.
 6. Each different type of alien gives a different score when damaged.
-7. The game has a musical background.
+7. The game has a background music.
 8. There are special effects sounds for buttons, bullets, damage, and death.
 9. When the player bullet and an alien bullet collide, they cancel each other out.
 10. The game stores and shows the high-score.
