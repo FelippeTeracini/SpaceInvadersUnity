@@ -10,7 +10,7 @@ https://guigs10mil.itch.io/space-invaders
 # How to Play
 
 Movement: Arrow Keys, A and D or Mouse <br/>
-Shoot: L-Ctrl or Mouse1
+Shoot: L-Ctrl or Mouse1 <br/>
 Pause: Esc
 
 # Extra Features 
