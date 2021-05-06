@@ -7,6 +7,8 @@ Access this link to play in the browser: https://FelippeTeracini.github.io/Space
 ## URL of the game on Itch.io
 https://guigs10mil.itch.io/space-invaders
 
+<img src="https://img.itch.zone/aW1hZ2UvNzQ3NjI5LzU4Nzg0OTAucG5n/250x600/oRMC2n.png">
+
 ## How to Play
 
 Movement: Arrow Keys, A and D or Mouse <br/>
