@@ -4,17 +4,16 @@ This project is a space invader clone made with the Unity Game Engine
 
 Access this link to play in the browser: https://FelippeTeracini.github.io/SpaceInvadersUnity
 
-# URL of the game on Itch.io
-
+## URL of the game on Itch.io
 https://guigs10mil.itch.io/space-invaders
 
-# How to Play
+## How to Play
 
 Movement: Arrow Keys, A and D or Mouse <br/>
 Shoot: L-Ctrl or Mouse1 <br/>
 Pause: Esc
 
-# Extra Features 
+## Extra Features 
 
 1. There are 6 different levels. The player goes to the next level when all aliens are dead.
 2. The player has 3 lives, always showing how many he has left.
@@ -38,10 +37,10 @@ Pause: Esc
 20. The game has post-processing effects applied.
 21. The game has a final boss.
 
-# Observations
+## Observations
 
 All game assets, including the sprites for the player, enemies, projectiles, sound effects and background music, where made by us. (Does not include the text fonts).
 
-# Credits
+## Credits
 
 Game made by Felippe Teracini and Guilherme Schoueri
