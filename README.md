@@ -1,6 +1,7 @@
 # SpaceInvadersUnity
 
-This project is a space invader clone made with the Unity Game Engine <br/>
+This project is a space invader clone made with the Unity Game Engine
+
 Access this link to play in the browser: https://FelippeTeracini.github.io/SpaceInvadersUnity
 
 # URL of the game on Itch.io
