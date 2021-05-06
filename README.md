@@ -7,7 +7,7 @@ Access this link to play in the browser: https://FelippeTeracini.github.io/Space
 ## URL of the game on Itch.io
 https://guigs10mil.itch.io/space-invaders
 
-<img src="https://img.itch.zone/aW1hZ2UvNzQ3NjI5LzU4Nzg1MTEucG5n/250x600/NWQ%2FUJ.png">
+<img src="https://img.itch.zone/aW1hZ2UvNzQ3NjI5LzU4Nzg1MTEucG5n/250x600/NWQ%2FUJ.png" height=1000>
 
 ## How to Play
 
